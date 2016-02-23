@@ -1,0 +1,19 @@
+h2 { color: #444; font-weight: lighter; }
+body { margin: 2em; }
+body, input[text], button { color: #888; font-family: Cambria, Georgia; }
+
+* { font-family: Arial; }
+
+button {
+  margin-top: 20px;
+  font-family: Arial;
+  background-color: #eee;
+  border: none;
+  padding: 5px 10px;
+  border-radius: 4px;
+  cursor: pointer; cursor: hand;
+  padding: 0.2em; font-size: 14px;
+}
+button:hover {
+  background-color: #cfd8dc;
+}
